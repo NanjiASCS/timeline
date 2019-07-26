@@ -1,0 +1,49 @@
+h2 {
+    text-align: center;
+    text-decoration: underline;
+
+}
+h1 {
+    Text-align: center;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+p {
+    text-align: center;
+    text-size-adjust: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.Taken_King {
+    background-color:orange;
+}
+
+.ROI{
+    background-color: aqua;
+}
+
+.D2 {
+    background-color: yellowgreen;
+}
+
+.shadowkeep{
+    background-color: red;
+}
+
+.forsaken{
+    background-color: blueviolet;
+}
+
+.forsaken_pictures{
+    text-align: center
+}
